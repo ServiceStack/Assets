@@ -1,0 +1,7 @@
+ServiceStack
+running on AWS
+Lambda Container
+
+Using ServiceStack
+and GitHub Actions
+for CI Deployments
