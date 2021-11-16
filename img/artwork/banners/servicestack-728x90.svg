@@ -1,0 +1,60 @@
+<svg id="SvgjsSvg1006" width="728" height="90" 
+    xmlns="http://www.w3.org/2000/svg" version="1.1" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns:svgjs="http://svgjs.com/svgjs">
+    <defs id="SvgjsDefs1007">
+        <linearGradient id="SvgjsLinearGradient1008">
+            <stop id="SvgjsStop1009" stop-color="#2196f3" offset="0"></stop>
+            <stop id="SvgjsStop1010" stop-color="#1976d2" offset="1"></stop>
+        </linearGradient>
+    </defs>
+    <rect id="SvgjsRect1011" width="728" height="90" fill="#ffffff" stroke="#000000" stroke-width="1"></rect>
+    <polygon id="SvgjsPolygon1012" points="335,0 415,90 728,90 728,0" fill="url(#SvgjsLinearGradient1008)"></polygon>
+    <polygon id="SvgjsPolygon1013" points="570,12 570,48 730,48 730,12" fill="#4caf50"></polygon>
+    <path id="SvgjsPath1014" d="M-114 7C-32.30000000000001 17.19999999999999 159.7 109.30000000000001 190 239H-202C-102.5 230.89999999999998 -17.5 102 -114 7ZM-82 -145C-49.69999999999999 -109.4 -34.30000000000001 -61.099999999999994 -35.599999999999994 -11.400000000000006C47.30000000000001 22.30000000000001 171.7 112.30000000000001 198 239H294C253.3 22.900000000000006 20.80000000000001 -129.5 -82 -145Z " transform="matrix(0.14,0,0,0.14,39.56,40.42)"></path>
+    <text id="SvgjsText1015" font-family="Myriad Pro,Segoe UI" font-size="44" font-weight="700" family="Myriad Pro,Segoe UI" size="44" weight="700" x="90" y="4.140625">
+        <tspan id="SvgjsTspan1016" dy="57.2" x="90">ServiceStack</tspan>
+    </text>
+    <text id="SvgjsText1017" font-family="Segoe UI" font-size="20" font-weight="400" fill="#ffffff" family="Segoe UI" size="20" weight="400" x="580" y="10.34375">
+        <tspan id="SvgjsTspan1018" dy="26" x="580">Build Apps Fast</tspan>
+    </text>
+    <text id="SvgjsText1019" font-family="Segoe UI" font-size="18" font-weight="400" fill="#ffffff" family="Segoe UI" size="18" weight="400" x="448" y="50.9375">
+        <tspan id="SvgjsTspan1020" dy="23.400000000000002" x="448">Simple, Elegant, Fast, Productive.</tspan>
+    </text>
+    <text id="SvgjsText1021" font-family="Segoe UI" font-size="28" font-weight="400" fill="#ffffff" family="Segoe UI" size="28" weight="400" x="404" y="4.609375">
+        <tspan id="SvgjsTspan1022" dy="36.4" x="404">iOS</tspan>
+    </text>
+    <text id="SvgjsText1023" font-family="Segoe UI" font-size="28" font-weight="400" fill="#ffffff" family="'Open Sans', sans-serif" size="28" weight="400" x="500" y="4.609375">
+        <tspan id="SvgjsTspan1024" dy="36.4" x="496">gRPC</tspan>
+    </text>
+    <g id="SvgjsG1025" transform="matrix(0.1,0,0,0.1,348.3599906921387,12.360009765624994)">
+        <path id="SvgjsPath1026" d="M108.4 0H131.4V22.8H152.6V0H175.6V69H152.6V46H131.6V69H108.39999999999999M206 23H185.7V0H249.39999999999998V23H229V69H206M259.5 0H283.6L298.40000000000003 24.3L313.2 0H337.3V69H314.3V34.8L298.2 59.599999999999994L282.09999999999997 34.8V69H259.49999999999994M348.7 0H371.7V46.2H404.3V69H348.7 "></path>
+        <path id="SvgjsPath1027" d="M107.6 471L74.6 100.60000000000002H437.4L404.4 470.8L255.7 512 " fill="#e44d26"></path>
+        <path id="SvgjsPath1028" d="M256 480.5V131H404.3L376 447 " fill="#f16529"></path>
+        <path id="SvgjsPath1029" d="M142 176.3H256V221.70000000000002H191.8L196 268.20000000000005H256V313.50000000000006H154.4M156.4 336.3H202L205.2 372.6L256 386.20000000000005V433.6L162.8 407.6 " fill="#ebebeb"></path>
+        <path id="SvgjsPath1030" d="M369.6 176.3H255.8V221.70000000000002H365.4M361.3 268.2H255.8V313.59999999999997H311.8L306.5 372.59999999999997L255.8 386.2V433.4L348.8 407.59999999999997 " fill="#ffffff"></path>
+    </g>
+    <g id="SvgjsG1031" transform="matrix(0.4,0,0,0.4,325.8400024414062,12.085896259546278)">
+        <svg xmlns="http://www.w3.org/2000/svg" 
+            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-147 -70 294 345">
+            <g fill="#a4c639">
+                <use stroke-width="14.4" xlink:href="#b" stroke="#FFF"></use>
+                <use xlink:href="#a" transform="scale(-1,1)"></use>
+                <g id="a" stroke="#FFF" stroke-width="7.2">
+                    <rect rx="6.5" transform="rotate(29)" height="86" width="13" y="-86" x="14"></rect>
+                    <rect id="c" rx="24" height="133" width="48" y="41" x="-143"></rect>
+                    <use y="97" x="85" xlink:href="#c"></use>
+                </g>
+                <g id="b">
+                    <ellipse cy="41" rx="91" ry="84"></ellipse>
+                    <rect rx="22" height="182" width="182" y="20" x="-91"></rect>
+                </g>
+            </g>
+            <g stroke="#FFF" stroke-width="7.2" fill="#FFF">
+                <path d="m-95 44.5h190"></path>
+                <circle cx="-42" r="4"></circle>
+                <circle cx="42" r="4"></circle>
+            </g>
+        </svg>
+    </g>
+</svg>
